@@ -1,8 +1,13 @@
 <h1 align="center">Welcome! I'm Aldo García<a> <br> <img aling="left" width="150" height="100" src="https://github.com/aldo-barrios10/aldo-barrios10/blob/main/Duo.gif?raw=true" /></a></h1>
 
+<br>
+<h3 align="justify">I'm a student of Computer Engineering at FES Aragón UNAM. I'm in the 9th semester, and this is my portfolio where I showcase several of the academic and personal projects I've completed throughout my degree. I hope my repositories capture your interest and provide you new insights.</h3>
+<br>
 
-## 🌐 My Social Media:
+
+## 📲 My Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aldo_garcia_10) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%23013243.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aldo-barrios-garc%C3%ADa-8199a7287/) 
 
 ## 💻 Skills and Knowledge:
 
@@ -38,8 +43,7 @@ Others:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aldo-barrios10&theme=tokyonight&hide_border=false)<br/>
 
-[![](https://visitcount.itsvg.in/api?id=aldo-barrios10&icon=8&color=1)](https://visitcount.itsvg.in)
----
+
 </div>
 
 
